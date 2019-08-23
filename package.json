@@ -1,0 +1,12 @@
+{
+    "name": "copypasta-bot",
+    "version": "1.0.0",
+    "description": "A copypasta discord bot.",
+    "main": "bot.js",
+    "author": "Joe Talbot",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "discord.js": "^11.5.1",
+        "winston": "^3.2.1"
+    }
+}
